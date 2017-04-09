@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Score Keeper App</string>
+    <string name="ImageViewDescription">Background Image</string>
+    <string name="Team_A_name">Team A</string>
+    <string name="Team_A_goals">0</string>
+    <string name="Team_A_Goal_button_name">Goal</string>
+    <string name="Team_A_Yellow_Cards">0</string>
+    <string name="Team_A_Yellow_Card_Button_name">Yellow Card</string>
+    <string name="Team_A_Red_Cards">0</string>
+    <string name="Team_A_Red_Card_Button_name">Red Card</string>
+    <string name="Team_B_name">Team B</string>
+    <string name="Team_B_goals">0</string>
+    <string name="Team_B_Goal_button_name">Goal</string>
+    <string name="Team_B_Yellow_Cards">0</string>
+    <string name="Team_B_Yellow_Card_Button_name">Yellow Card</string>
+    <string name="Team_B_Red_Cards">0</string>
+    <string name="Team_B_Red_Card_Button_name">Red Card</string>
+    <string name="reset_button_name">reset</string>
+</resources>
