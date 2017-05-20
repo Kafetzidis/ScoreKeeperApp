@@ -1,7 +1,7 @@
 package com.example.android.scorekeeperapp;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 
@@ -19,9 +19,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
     }
-
     /**
      * This method is called when the goal button for Team A is clicked.
      */
@@ -135,4 +133,5 @@ public class MainActivity extends AppCompatActivity {
         displayYellowCardsForTeamB(yellowCardsTeamB);
         displayRedCardsForTeamB(redCardsTeamB);
     }
+
 }
